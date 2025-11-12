@@ -11,4 +11,6 @@ Subir todos los documentos relacionados a las siguientes actividades que integra
 
 • Necesidades de materias primas #17
 
-• Distribución de la planta #18
+• Cadena de valor #18
+
+• Distribución de la planta #19
